@@ -7,3 +7,6 @@ git commit  -m "Details files added"
 git remote add origin https://github.com/UpdaterCodeHub/Segmentation.git
 git remote -v
 git push -u origin master
+
+git push -u origin master
+
